@@ -41,7 +41,7 @@ Currently rebuilding my portfolio in **Next.js 14 + TypeScript** with a strong f
 
 ## 📫 Let’s connect
 - [LinkedIn](https://www.linkedin.com/in/ineaw/)  
-- [Portfolio](https://your-portfolio-link.com) *(update when ready)*  
+- [Portfolio]() 
 - [Email](mailto:your-email@example.com)
 
 ---
